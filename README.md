@@ -9,10 +9,15 @@
   
 ## Setup 
 * First run setup instructions [here](https://github.com/JoeNonExotic/remote-widget-for-module-federation).
-* To host federated modules on your `localhost:8000`
+* To run host application:
   *  [npm link](https://docs.npmjs.com/cli/v8/commands/npm-link) to remote-widget-for-module-federation or [install from local](https://docs.npmjs.com/downloading-and-installing-packages-locally)
   * `npm install`
   * `npm run start`
+  * Open `localhost:8005` in web browser.
+
+
+## In Action 
+![](./images/in-action.png)
 
 
 
