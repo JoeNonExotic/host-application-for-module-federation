@@ -6,7 +6,7 @@ const RemoteWidget = lazy(() => import("remote-widget"));
 const App = (): ReactElement => {
     return (
         <Fragment>
-            <h1>3.2. federated modules (react)</h1>
+            <h1>Host Application</h1>
             <Suspense fallback="Loading...">
                 <RemoteWidget />
             </Suspense>
