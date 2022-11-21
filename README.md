@@ -6,6 +6,7 @@
   - https://webpack.js.org/concepts/module-federation/
   - https://module-federation.github.io/
   - https://dev.to/marais/webpack-5-and-module-federation-4j1i 
+  - https://github.com/marcogrcr
   
 ## Setup 
 * First run setup instructions [here](https://github.com/JoeNonExotic/remote-widget-for-module-federation).
